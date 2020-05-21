@@ -8,3 +8,13 @@ C:\Users\Дмитрий\Desktop\SeriesSite\Infrastructure\bin\Debug\netcoreapp3.
 C:\Users\Дмитрий\Desktop\SeriesSite\Infrastructure\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.pdb
 C:\Users\Дмитрий\Desktop\SeriesSite\Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.dll
 C:\Users\Дмитрий\Desktop\SeriesSite\Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.pdb
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.deps.json
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.runtimeconfig.dev.json
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.dll
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.pdb
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.dll
+C:\Users\Дмитрий\Desktop\SeriesSite\SeriesSite.Infrastructure\obj\Debug\netcoreapp3.1\SeriesSite.Infrastructure.pdb

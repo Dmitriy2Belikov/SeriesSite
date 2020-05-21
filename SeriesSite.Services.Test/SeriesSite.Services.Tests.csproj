@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Services\SeriesSite.Services.csproj" />
+    <ProjectReference Include="..\SeriesSite.Services\SeriesSite.Services.csproj" />
   </ItemGroup>
 
 </Project>

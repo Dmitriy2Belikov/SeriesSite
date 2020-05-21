@@ -4890,8 +4890,8 @@
     },
     "SeriesSite.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Infrastructure/SeriesSite.Infrastructure.csproj",
-      "msbuildProject": "../Infrastructure/SeriesSite.Infrastructure.csproj"
+      "path": "../SeriesSite.Infrastructure/SeriesSite.Infrastructure.csproj",
+      "msbuildProject": "../SeriesSite.Infrastructure/SeriesSite.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4907,11 +4907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services\\SeriesSite.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services\\SeriesSite.Services.csproj",
       "projectName": "SeriesSite.Services",
-      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services\\SeriesSite.Services.csproj",
+      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services\\SeriesSite.Services.csproj",
       "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services\\obj\\",
+      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4932,8 +4932,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\SeriesSite.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\SeriesSite.Infrastructure.csproj"
+            "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\SeriesSite.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\SeriesSite.Infrastructure.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\SeriesSite.Infrastructure.csproj": {}
+    "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\SeriesSite.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\SeriesSite.Infrastructure.csproj": {
+    "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\SeriesSite.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\SeriesSite.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\SeriesSite.Infrastructure.csproj",
         "projectName": "SeriesSite.Infrastructure",
-        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\SeriesSite.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\SeriesSite.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

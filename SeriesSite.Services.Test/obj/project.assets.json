@@ -6669,13 +6669,13 @@
     },
     "SeriesSite.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Infrastructure/SeriesSite.Infrastructure.csproj",
-      "msbuildProject": "../Infrastructure/SeriesSite.Infrastructure.csproj"
+      "path": "../SeriesSite.Infrastructure/SeriesSite.Infrastructure.csproj",
+      "msbuildProject": "../SeriesSite.Infrastructure/SeriesSite.Infrastructure.csproj"
     },
     "SeriesSite.Services/1.0.0": {
       "type": "project",
-      "path": "../Services/SeriesSite.Services.csproj",
-      "msbuildProject": "../Services/SeriesSite.Services.csproj"
+      "path": "../SeriesSite.Services/SeriesSite.Services.csproj",
+      "msbuildProject": "../SeriesSite.Services/SeriesSite.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6694,11 +6694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services.Test\\SeriesSite.Services.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services.Test\\SeriesSite.Services.Tests.csproj",
       "projectName": "SeriesSite.Services.Tests",
-      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services.Test\\SeriesSite.Services.Tests.csproj",
+      "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services.Test\\SeriesSite.Services.Tests.csproj",
       "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services.Test\\obj\\",
+      "outputPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6719,8 +6719,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services\\SeriesSite.Services.csproj": {
-              "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\Services\\SeriesSite.Services.csproj"
+            "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services\\SeriesSite.Services.csproj": {
+              "projectPath": "C:\\Users\\Дмитрий\\Desktop\\SeriesSite\\SeriesSite.Services\\SeriesSite.Services.csproj"
             }
           }
         }
