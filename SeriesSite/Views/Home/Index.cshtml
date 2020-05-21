@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model SeriesSite.Web.Models.HomeViewModel.HomeViewModel
+
+    <div class="text-center">
+        <h1 class="display-4">Список сериалов</h1>
+
+        <a class="btn btn-primary mt-auto mb-auto" asp-controller="Home" asp-action="AddSerial">Добавить сериал</a>
+
+        <table class="table">
+            <tr class="table__header">
+                <th>Название</th>
+                <th>Страна</th>
+                <th>Жанры</th>
+                <th></th>
+                <th></th>
+            </tr>
+            @foreach (var serial in Model.SerialViewModels)
+            {
+                <tr>
+                    <td>@serial.Name</td>
+                    <td>@serial.Country</td>
+                    <td>@serial.Genres</td>
+                    <td><a asp-controller="Home" asp-action="EditSerial" asp-route-id="@serial.SerialId">Редактировать</a></td>
+                    <td><a asp-controller="Home" asp-action="DeleteSerial" asp-route-id="@serial.SerialId">Удалить</a></td>
+                </tr>
+            }
+        </table>
+    </div>

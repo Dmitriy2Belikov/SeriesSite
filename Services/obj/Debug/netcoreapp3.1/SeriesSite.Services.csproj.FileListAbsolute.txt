@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\bin\Debug\netcoreapp3.1\SeriesSite.Services.deps.json
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\bin\Debug\netcoreapp3.1\SeriesSite.Services.dll
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\bin\Debug\netcoreapp3.1\SeriesSite.Services.pdb
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.dll
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\bin\Debug\netcoreapp3.1\SeriesSite.Infrastructure.pdb
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\obj\Debug\netcoreapp3.1\SeriesSite.Services.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\obj\Debug\netcoreapp3.1\SeriesSite.Services.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\obj\Debug\netcoreapp3.1\SeriesSite.Services.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\obj\Debug\netcoreapp3.1\SeriesSite.Services.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\obj\Debug\netcoreapp3.1\SeriesSite.Services.dll
+C:\Users\Дмитрий\Desktop\SeriesSite\Services\obj\Debug\netcoreapp3.1\SeriesSite.Services.pdb

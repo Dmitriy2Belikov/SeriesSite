@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewData["Title"] = "Редактирование сериала";
+}
+
+@model SeriesSite.Web.Models.SerialEditViewModel
+
+<h1>Редактировать сериал</h1>
+
+<form asp-action="EditSerial" asp-controller="Home" asp-anti-forgery="true">
+
+    <div class="input">
+        <label asp-for="Name">
+            Название:
+            <input type="text" asp-for="Name" value="@Model.Name"/>
+        </label>
+    </div>
+
+    <div class="checkbox">
+        <label asp-for="GenreOptions">
+            Роль:
+            <div class="checkbox">
+                @for (var i = 0; i < Model.GenreOptions.Count; i++)
+                {
+                    <label asp-for="GenreOptions[i].IsSelected">
+                        <input type="checkbox" asp-for="GenreOptions[i].IsSelected" checked="@Model.GenreOptions[i].IsSelected"> @Model.GenreOptions[i].Name
+                        <input type="text" asp-for="GenreOptions[i].Name" value="@Model.GenreOptions[i].Name" hidden />
+                    </label>
+                }
+            </div>
+        </label>
+    </div>
+
+    <div class="input">
+        <label>
+            Страна:
+            <select asp-for="SelectedCountryId">
+                <option selected="selected">Выберите страну</option>
+                @foreach (var country in Model.Countries)
+                {
+                    if (country.Id == Model.SelectedCountryId)
+                    {
+                        <option selected="selected" value="@country.Id">@country.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@country.Id">@country.Name</option>
+                    }
+                }
+            </select>
+        </label>
+    </div>
+
+    <div class="ml-120 mb-20 danger" asp-validation-summary="All">
+    </div>
+
+    <button type="submit" class="ml-120">Редактировать</button>
+</form>
