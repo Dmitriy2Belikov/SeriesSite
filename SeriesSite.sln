@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeriesSite.Infrastructure",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeriesSite.Services", "SeriesSite.Services\SeriesSite.Services.csproj", "{A733AEC3-1ECB-4946-8DF8-67744FDD14BC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeriesSite.Services.Tests", "SeriesSite.Services.Test\SeriesSite.Services.Tests.csproj", "{0ACE92D9-21B5-4FAA-92BB-08F8B6512A1F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeriesSite.Web", "SeriesSite.Web\SeriesSite.Web.csproj", "{CE462E0D-77A7-4F1D-83E5-69F3E5867E63}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{A733AEC3-1ECB-4946-8DF8-67744FDD14BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A733AEC3-1ECB-4946-8DF8-67744FDD14BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A733AEC3-1ECB-4946-8DF8-67744FDD14BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0ACE92D9-21B5-4FAA-92BB-08F8B6512A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0ACE92D9-21B5-4FAA-92BB-08F8B6512A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0ACE92D9-21B5-4FAA-92BB-08F8B6512A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0ACE92D9-21B5-4FAA-92BB-08F8B6512A1F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CE462E0D-77A7-4F1D-83E5-69F3E5867E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CE462E0D-77A7-4F1D-83E5-69F3E5867E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE462E0D-77A7-4F1D-83E5-69F3E5867E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
